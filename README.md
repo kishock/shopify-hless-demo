@@ -162,9 +162,7 @@ pnpm dev
 
 ### Live Demo
 
-```text
-https://shopify-hless-demo.vercel.app/
-```
+[https://shopify-hless-demo.vercel.app/](https://shopify-hless-demo.vercel.app/)
 
 ### 스크립트
 
@@ -342,9 +340,7 @@ pnpm dev
 
 ### Live Demo
 
-```text
-https://shopify-hless-demo.vercel.app/
-```
+[https://shopify-hless-demo.vercel.app/](https://shopify-hless-demo.vercel.app/)
 
 ### Scripts
 
