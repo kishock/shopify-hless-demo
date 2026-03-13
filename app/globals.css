@@ -2,6 +2,7 @@
 
 @plugin "@tailwindcss/container-queries";
 @plugin "@tailwindcss/typography";
+@custom-variant dark (&:where(.dark, .dark *));
 
 @layer base {
   *,
@@ -13,15 +14,23 @@
   }
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
+html {
+  color-scheme: light;
+}
+
+html.dark {
+  color-scheme: dark;
 }
 
 @supports (font: -apple-system-body) and (-webkit-appearance: none) {
   img[loading="lazy"] {
     clip-path: inset(0.6px);
+  }
+}
+
+@layer utilities {
+  .text-brandBlue {
+    color: #2563eb;
   }
 }
 

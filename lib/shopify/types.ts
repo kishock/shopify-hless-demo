@@ -251,6 +251,12 @@ export type ShopifyProductOperation = {
   };
 };
 
+export type ShopifyProductTypesOperation = {
+  data: {
+    productTypes: Connection<string>;
+  };
+};
+
 export type ShopifyProductRecommendationsOperation = {
   data: {
     productRecommendations: ShopifyProduct[];
