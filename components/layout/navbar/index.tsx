@@ -29,7 +29,7 @@ export async function Navbar() {
             >
               <TruckIcon className="h-7 w-7 text-brandBlue" />
               <span className="ml-2 hidden flex-none text-2xl font-extrabold tracking-tighter text-neutral-950 dark:text-neutral-50 md:inline lg:inline">
-                COVER<span className="text-brandBlue">LAND</span>-Demo
+                Headless<span className="text-brandBlue">DEMO</span>
               </span>
             </Link>
             {menu.length ? (
