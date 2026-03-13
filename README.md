@@ -1,4 +1,4 @@
-# Commerce Storefront
+# Shopify Headless Demo
 
 [한국어로 보기](#korean) | [Read in English](#english)
 
@@ -8,7 +8,7 @@
 
 ### 프로젝트 소개
 
-이 프로젝트는 `Next.js App Router`와 `Shopify Storefront API`를 기반으로 구축된 헤드리스 커머스 프론트엔드입니다.  
+이 프로젝트는 `Next.js App Router`와 `Shopify Storefront API`를 기반으로 구축된 헤드리스 커머스 데모 storefront입니다.  
 스토어의 상품, 컬렉션, 페이지, 장바구니 데이터를 Shopify에서 가져오고, Next.js의 서버 중심 렌더링과 캐시 전략을 활용해 빠른 사용자 경험을 제공하도록 구성되어 있습니다.
 
 핵심 목적은 다음과 같습니다.
@@ -188,7 +188,7 @@ http://localhost:3000
 
 ### Overview
 
-This project is a headless commerce storefront built with `Next.js App Router` and the `Shopify Storefront API`.  
+This project is a headless commerce demo storefront built with `Next.js App Router` and the `Shopify Storefront API`.  
 It fetches products, collections, pages, and cart data from Shopify, then renders the storefront through a server-first Next.js architecture with caching and revalidation support.
 
 Its main goals are:

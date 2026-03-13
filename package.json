@@ -1,4 +1,5 @@
 {
+  "name": "shopify-hless-demo",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
