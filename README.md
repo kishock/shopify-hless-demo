@@ -160,10 +160,10 @@ pnpm install
 pnpm dev
 ```
 
-기본 개발 서버 주소:
+### Live Demo
 
 ```text
-http://localhost:3000
+https://shopify-hless-demo.vercel.app/
 ```
 
 ### 스크립트
@@ -340,10 +340,10 @@ pnpm install
 pnpm dev
 ```
 
-Default local URL:
+### Live Demo
 
 ```text
-http://localhost:3000
+https://shopify-hless-demo.vercel.app/
 ```
 
 ### Scripts
