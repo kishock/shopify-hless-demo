@@ -1,5 +1,9 @@
 # Shopify Headless Demo
 
+<p align="center">
+  <img src="./assets/readme/diagram_shopify.png" alt="Shopify Architecture Diagram" width="920" />
+</p>
+
 [한국어로 보기](#korean) | [Read in English](#english)
 
 ---
